@@ -1,6 +1,0 @@
-echo "# Actividad1" >> FIRST.md
-git init
-git add FIRST.md
-git commit -m "Primer archivo"
-git remote add origin https://github.com/Rodriguez78741/Actividad1.git
-git push -u origin master
